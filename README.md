@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web applications that solve real-world problems.
 - 📫 How to reach me: 
     - Email: maxwellwalin@gmail.com
-    - LinkedIn: [linkedin.com/maxwellwalin](linkedin.com/maxwellwalin)
+    - LinkedIn: [linkedin.com/in/maxwell-walin-5ab630213/](https://www.linkedin.com/in/maxwell-walin-5ab630213/)
 
 <!---
 maxwellwalin/maxwellwalin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
