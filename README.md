@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
     - Email: maxwellwalin@gmail.com
     - LinkedIn: [linkedin.com/in/maxwell-walin](https://www.linkedin.com/in/maxwell-walin)
-    - Portfolio: [maxwellwalin-portfolio.herokuapp.com](https://maxwellwalin-portfolio.herokuapp.com/)
+    - Portfolio: [maxwellwalin.com](maxwellwalin.com)
 
 <!---
 maxwellwalin/maxwellwalin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
